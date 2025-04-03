@@ -161,7 +161,7 @@ docker-compose up --build
 
 ## License
 
-MIT License - See ![LICENSE](./LICENSE)
+MIT License - See [LICENSE](./LICENSE)
 
 ---
 
