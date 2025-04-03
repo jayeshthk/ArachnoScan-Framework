@@ -1,0 +1,46 @@
+# Root .gitignore
+/.idea
+/.vscode
+.DS_Store
+*.log
+*.swp
+*.swo
+
+# Python - pen-app
+pen-app/venv/*
+pen-app/.venv/*
+pen-app/__pycache__/
+pen-app/*.py[cod]
+pen-app/*$py.class
+pen-app/.python-version
+pen-app/.env
+pen-app/.pytest_cache/
+pen-app/coverage.xml
+pen-app/.mypy_cache/
+
+# Node.js - pen-ui
+pen-ui/node_modules/
+pen-ui/.next/
+pen-ui/out/
+pen-ui/dist/
+pen-ui/.env*
+pen-ui/.cache
+pen-ui/.npm
+pen-ui/.eslintcache
+pen-ui/npm-debug.log*
+pen-ui/yarn-debug.log*
+pen-ui/yarn-error.log*
+pen-ui/.svelte-kit
+
+# Local development
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build files
+*.egg-info/
+*.egg
+build/
+dist/
