@@ -2,15 +2,6 @@
 
 **Map Website Structures | Analyze Security Posture | Open-Source Pen-Testing Toolkit**
 
-<style>
-    img {
-        max-width: 100%;
-        height: auto;
-        display: block;
-        margin: 0 auto;
-    }
-</style>
-
 ![ArachnoScan Framework](./images/arachnoscan.png)
 
 ---
